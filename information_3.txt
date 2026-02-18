@@ -1,1 +1,4 @@
 have game tyare aa local code to remote repository ma kkoi navi file update karvi hoy to
+-->git add .
+-->git commit -m "desciption"
+-->git push / git push origin main 
