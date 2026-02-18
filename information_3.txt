@@ -1,3 +1,16 @@
+1st time-------------
+mkdir "name"
+cd LocalRepo
+git init
+git add .
+git commit -m "desciption"
+git remote add origin
+git branch -M main
+git push -u origin main
+
+
+
+2nd time --------------
 have game tyare aa local code to remote repository ma kkoi navi file update karvi hoy to
 -->git add .
 -->git commit -m "desciption"
