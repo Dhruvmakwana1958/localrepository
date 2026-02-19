@@ -1,0 +1,45 @@
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (main)
+-->$ git branch --->ketli branch che te show kare 
+* main          ---> ak j che je main che
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (main)
+-->$ git checkout -b feature1  ---> navi branch add karva mate ane aa feature1 lakhyu eni jagya e biju name b laki sakay ex dhruv
+Switched to a new branch 'feature1'
+ 
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature1)
+-->$ git branch                --->chek karo ke ketli che to have 2 branch dekhadse ak to main ane biji feature1
+* feature1                     --->ama atyre feature1 upar star(*) che matlb apde atyre teni andar chi ani pela main upar * hto
+  main
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature1)
+-->$ git checkout main         --->apdu pinter fari pachu main ma lava mate
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (main)
+-->$ git checkout -b feature2  ---> navi branch fari pachi add kari
+Switched to a new branch 'feature2'
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature2)
+-->$ git branch
+  feature1
+* feature2                     ---> apdu pointer feature2 upar che
+  main
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature2)
+-->$ git checkout main         ---> have apde ahi branch delete karvi che feature2 vadi pan apdu pointer teni uapr j che to delete karva
+Switched to branch 'main'            ka to main upar pointer levu pan ka to feature1 upar atyre apde main upar lidhu
+Your branch is up to date with 'origin/main'.
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (main)
+-->$ git branch -d feature2    ---> delete branch
+Deleted branch feature2 (was 28f68d1).
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (main)
+$ git branch
+  feature1
+* main
+
+makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (main)
+$
