@@ -69,3 +69,9 @@ To https://github.com/Dhruvmakwana1958/localrepository.git
  * [new branch]      feature1 -> feature1
 
 makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature1)
+
+
+// remote server matlb githubb uapr to pull request upar thi changes kari nakhya main ane branches banne ma but local server upar change 
+// na thay to ena mate commannd che 
+
+--> git pull origin main
