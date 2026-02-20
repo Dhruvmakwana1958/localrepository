@@ -81,3 +81,6 @@ makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature1)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // pan jo apse manually merge karvu hoy to 
 apde sav pela n.html vadi file ma (ownwer) evu add karyu, tene add karyu ane pachi commit karyu pachi
+featur1 vadi branch ma jai ne n.html ma (cutomer) em add karyu
+have banne vacche no diffrence janva
+--> git diff main  --> jo main vadi branch ma pointer hoy to git diff featur1 em lakhvu
