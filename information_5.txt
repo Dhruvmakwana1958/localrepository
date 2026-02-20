@@ -99,3 +99,4 @@ have banne vacche no diffrence janva
 <h2>This is new feature add (owner)></h2>
 
 have aane terminal ma jai ne add, commit karvu
+--> jo apde last ma feture1 vadi branch ma jai ne merge kari to have apde main vadi branch ma jai ne pan checkout karvu pade
