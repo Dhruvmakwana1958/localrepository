@@ -75,3 +75,9 @@ makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature1)
 // na thay to ena mate commannd che 
 
 --> git pull origin main
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// pan jo apse manually merge karvu hoy to 
+apde sav pela n.html vadi file ma (ownwer) evu add karyu, tene add karyu ane pachi commit karyu pachi
