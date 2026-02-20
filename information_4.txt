@@ -12,7 +12,7 @@ makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature1)
   main
 
 makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB/LocalRepo (feature1)
--->$ git checkout main         --->apdu pinter fari pachu main ma lava mate
+-->$ git checkout main         --->apdu pointer fari pachu main ma lava mate
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
