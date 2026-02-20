@@ -1,3 +1,5 @@
+++++++++++++++++++++++++++++ local to remote send ++++++++++++++++++++++++++
+
 --> mkdir "name" -> GIT & GITHUB ma biji navi sub directory banava mate
 
 makwa@HP-VICTUS_2303 MINGW64 ~/Downloads/GIT & GITHUB
